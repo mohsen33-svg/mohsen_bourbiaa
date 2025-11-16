@@ -1,0 +1,69 @@
+{
+  "hotels": [
+    {
+      "id": 1,
+      "nom": "Hotel Royal Garden",
+      "prix": 120,
+      "image": "https://picsum.photos/400/250?random=11",
+      "note": 4.5,
+      "ville": "Hammamet",
+      "etoiles": 5,
+      "disponible": true
+    },
+
+    {
+      "id": 2,
+      "nom": "Hotel Jasmine Palace",
+      "prix": 80,
+      "image": "https://picsum.photos/400/250?random=12",
+      "note": 3.7,
+      "ville": "Sousse",
+      "etoiles": 3,
+      "disponible": true
+    },
+
+    {
+      "id": 3,
+      "nom": "Hotel Carthage Resort",
+      "prix": 150,
+      "image": "https://picsum.photos/400/250?random=13",
+      "note": 4.8,
+      "ville": "Tunis",
+      "etoiles": 5,
+      "disponible": false
+    },
+
+    {
+      "id": 4,
+      "nom": "Hotel Oasis Beach",
+      "prix": 60,
+      "image": "https://picsum.photos/400/250?random=14",
+      "note": 2.9,
+      "ville": "Djerba",
+      "etoiles": 2,
+      "disponible": true
+    },
+
+    {
+      "id": 5,
+      "nom": "Hotel El Mouradi",
+      "prix": 95,
+      "image": "https://picsum.photos/400/250?random=15",
+      "note": 4.1,
+      "ville": "Monastir",
+      "etoiles": 4,
+      "disponible": true
+    },
+
+    {
+      "id": 6,
+      "nom": "Hotel La Perle Bleue",
+      "prix": 200,
+      "image": "https://picsum.photos/400/250?random=16",
+      "note": 4.9,
+      "ville": "Mahdia",
+      "etoiles": 5,
+      "disponible": false
+    }
+  ]
+}
